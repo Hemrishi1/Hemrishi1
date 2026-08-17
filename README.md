@@ -3,9 +3,9 @@
 <!-- DYNAMIC WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hemrishi%20Bhansali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Developer%20•%20Open%20Source%20Contributor&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
-<!-- ANIMATED TYPING SVG -->
+<!-- ANIMATED TYPING SVG (STABLE HOST) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;🎓+B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;🎓+B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest)" alt="Typing SVG" />
 </p>
 
 <!-- LIVE STATS & SOCIAL PILLS -->
@@ -39,30 +39,6 @@
 ---
 
 </div>
-
-## 🏆 GitHub Trophies Showcase
-
-<div align="center">
-  <a href="https://github.com/Hemrishi1">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hemrishi1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7" alt="Hemrishi's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 🎮 Contribution Grid Eater (Pac-Man & Snake Game)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake & Pacman Eater" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-  <br/>
-  <sub><i>🕹️ Dynamic contribution animation automatically eats through commit tiles</i></sub>
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -116,7 +92,7 @@
 
 ---
 
-## 🌟 Featured Engineering Projects
+## 🌟 Flagship Engineering Projects
 
 <table>
   <tr>
@@ -229,26 +205,32 @@
 
 ---
 
-## 📈 Activity & Contribution Graph
+## 📊 Profile Analytics & Language Breakdown
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemrishi1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemrishi1&theme=tokyonight" width="49%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemrishi1&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemrishi1&theme=tokyonight" width="49%" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemrishi1&theme=tokyonight" width="49%" alt="Repos Per Language" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/Hemrishi1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hemrishi's GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemrishi1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=Hemrishi1&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <a href="https://github.com/Hemrishi1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemrishi1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemrishi1&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
