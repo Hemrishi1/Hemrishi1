@@ -27,13 +27,13 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER & DEVELOPER METRICS STRIP -->
+<!-- SLEEK SINGLE-ROW DYNAMIC METRIC PILLS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hemrishi1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/SIH_'24-Finalist-10B981?style=for-the-badge" alt="SIH" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20Hacktoberfest-8B5CF6?style=for-the-badge&logo=github" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Public%20Repos-24%2B-3B82F6?style=for-the-badge&logo=git" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=Hemrishi1&color=6366F1&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Hackathon-SIH%20'24%20Finalist-10B981?style=flat&logo=target&logoColor=white" alt="SIH" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20'24%20%26%20Hacktoberfest-8B5CF6?style=flat&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Public%20Repos-24%2B-3B82F6?style=flat&logo=git&logoColor=white" alt="Repos" />
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@
 
 ---
 
-## 📊 Profile Analytics & Language Breakdown
+## 📊 Profile Analytics & LeetCode Tracker
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemrishi1&theme=tokyonight" width="49%" alt="Profile Summary" />
@@ -152,6 +152,15 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemrishi1&theme=tokyonight" width="49%" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemrishi1&theme=tokyonight" width="49%" alt="Repos Per Language" />
+</div>
+
+<br/>
+
+<!-- LIVE LEETCODE REALTIME STATS CARD -->
+<div align="center">
+  <a href="https://leetcode.com/u/hemrishibhansali1/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/hemrishibhansali1?theme=tokyonight&font=Fira%20Code" width="98%" alt="Hemrishi's LeetCode Stats" />
+  </a>
 </div>
 
 <br/>
