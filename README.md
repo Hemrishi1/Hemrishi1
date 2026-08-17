@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;🎓+B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest);🎓+B.Tech+CSE+@+VIT+Bhopal" alt="Typing SVG" />
 </p>
 
 <!-- LIVE STATS & SOCIAL PILLS -->
@@ -24,12 +24,13 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER & METRICS STRIP -->
+<!-- VISITOR COUNTER & DEVELOPER METRICS STRIP -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hemrishi1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/CGPA-8.53%20%2F%2010-3B82F6?style=for-the-badge&logo=academia" alt="CGPA" />
   <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/SIH_'24-Finalist-10B981?style=for-the-badge" alt="SIH" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20Hacktoberfest-8B5CF6?style=for-the-badge&logo=github" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Public%20Repos-24%2B-3B82F6?style=for-the-badge&logo=git" alt="Repos" />
 </p>
 
 <p align="center">
@@ -42,7 +43,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Academic Standing:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (**8.53 CGPA**).
+- 🎓 **Education:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (Class of 2023–2027).
 - 💡 **Engineering Focus:** Architecting responsive full-stack applications & engineering autonomous AI systems (LLM tool-use orchestration, Computer Vision, CNNs).
 - 🏆 **Competitive Problem Solving:** Solved **186+ algorithmic challenges** on LeetCode across dynamic programming, trees, arrays, and graph theory.
 - 🏛️ **Leadership & Impact:** **Joint Secretary at Frontiers Welfare Society** — streamlined event planning across 2 states, improving turnaround times by ~30%.
