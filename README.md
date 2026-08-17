@@ -3,7 +3,7 @@
 <!-- DYNAMIC WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hemrishi%20Bhansali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Developer%20•%20Open%20Source%20Contributor&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
-<!-- ANIMATED TYPING SVG (STABLE HOST) -->
+<!-- ANIMATED TYPING SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;🎓+B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest)" alt="Typing SVG" />
 </p>
@@ -39,20 +39,6 @@
 ---
 
 </div>
-
-## 🎮 Pac-Man & Snake Contribution Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
-    <img alt="Pacman / Snake Contribution Animation" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-  <br/>
-  <sub><i>🕹️ Pac-Man eats through your real GitHub contribution commits daily!</i></sub>
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -241,10 +227,26 @@
   </a>
 </div>
 
+---
+
+## 🕹️ Activity & Pac-Man Contribution Game
+
+<!-- RETRO PAC-MAN EATER ANIMATION -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" alt="Pac-Man Eating Dots" />
+</div>
+
 <br/>
 
+<!-- PAC-MAN THEMED CONTRIBUTION GRID -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemrishi1&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
+    <img alt="Pacman Contribution Grid" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="98%" />
+  </picture>
+  <br/>
+  <sub><i>🟡 Yellow Pac-Man eats through your real commit dots on the contribution grid</i></sub>
 </div>
 
 ---
