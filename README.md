@@ -1,25 +1,35 @@
 <div align="center">
 
-# 👨‍💻 Hemrishi Bhansali
-### *Full-Stack Software Engineer • AI/ML Developer • B.Tech CSE @ VIT Bhopal*
+<!-- DYNAMIC WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hemrishi%20Bhansali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Developer%20•%20Open%20Source%20Contributor&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
+<!-- ANIMATED TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%7C+React.js+%26+Node.js;AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;Smart+India+Hackathon+'24+Finalist;B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);186%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=⚡+Full-Stack+Engineer+%7C+React.js+%26+Node.js;🤖+AI+Developer+%7C+Google+Gemini+%26+Computer+Vision;🏆+Smart+India+Hackathon+'24+National+Finalist;🎓+B.Tech+CSE+@+VIT+Bhopal+(8.53+CGPA);💡+186%2B+LeetCode+Problems+Solved;🌐+Open-Source+Contributor+(GSSoC+'24+%26+Hacktoberfest)" alt="Typing SVG" />
 </p>
 
+<!-- LIVE STATS & SOCIAL PILLS -->
 <p align="center">
   <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-hemrishibhansali1.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-hemrishibhansali1.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/hemrishibhansali1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hemrishibhansali1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Hemrishi1">
-    <img src="https://img.shields.io/badge/GitHub-PRO-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-PRO_Member-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<!-- VISITOR COUNTER & METRICS STRIP -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hemrishi1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/CGPA-8.53%20%2F%2010-3B82F6?style=for-the-badge&logo=academia" alt="CGPA" />
+  <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/SIH_'24-Finalist-10B981?style=for-the-badge" alt="SIH" />
 </p>
 
 <p align="center">
@@ -28,30 +38,43 @@
 
 ---
 
-<!-- KEY METRICS STRIP -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.53%20%2F%2010-blue?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-orange?style=flat-square&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Hackathon-SIH%20'24%20Finalist-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20'24%20%26%20Hacktoberfest-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Public%20Repos-24%2B-lightgrey?style=flat-square&logo=github" />
-</p>
+</div>
 
+## 🏆 GitHub Trophies Showcase
+
+<div align="center">
+  <a href="https://github.com/Hemrishi1">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hemrishi1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7" alt="Hemrishi's GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+## 🎮 Contribution Grid Eater (Pac-Man & Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake & Pacman Eater" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <br/>
+  <sub><i>🕹️ Dynamic contribution animation automatically eats through commit tiles</i></sub>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Academic Standing:** Computer Science & Engineering undergraduate at **VIT Bhopal University** with an **8.53 CGPA**.
-- 💡 **Engineering Focus:** Building high-performance, responsive full-stack web applications and integrating autonomous AI/ML solutions (LLM orchestration, Computer Vision, CNNs).
-- 🏆 **Competitive Problem Solving:** Solved **186+ DSA challenges** on LeetCode across arrays, dynamic programming, trees, and graph algorithms.
-- 🏛️ **Leadership & Impact:** **Joint Secretary at Frontiers Welfare Society** — streamlined event workflows across 2 states, accelerating turnaround times by ~30%.
-- 🌐 **Open-Source Community:** Contributor to **GirlScript Summer of Code (GSSoC'24)** and **Hacktoberfest**, resolving 15+ issues across public codebases.
+- 🎓 **Academic Standing:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (**8.53 CGPA**).
+- 💡 **Engineering Focus:** Architecting responsive full-stack applications & engineering autonomous AI systems (LLM tool-use orchestration, Computer Vision, CNNs).
+- 🏆 **Competitive Problem Solving:** Solved **186+ algorithmic challenges** on LeetCode across dynamic programming, trees, arrays, and graph theory.
+- 🏛️ **Leadership & Impact:** **Joint Secretary at Frontiers Welfare Society** — streamlined event planning across 2 states, improving turnaround times by ~30%.
+- 🌐 **Open-Source Contributions:** Active participant in **GirlScript Summer of Code (GSSoC'24)** & **Hacktoberfest**, resolving 15+ issues in public repositories.
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -64,7 +87,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Web & Full-Stack Development
+### 🌐 Full-Stack & Web Technologies
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -72,7 +95,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI, Machine Learning & Computer Vision
+### 🤖 AI Engineering & Computer Vision
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -83,7 +106,7 @@
 ### 🗄️ Databases, Cloud & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20(S3%2FEC2)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20(S3%20%2F%20EC2)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -93,17 +116,17 @@
 
 ---
 
-## 🌟 Flagship Engineering Projects
+## 🌟 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Code Review Bot</h3>
-      <p>Autonomous AI code reviewer that analyzes GitHub pull request diffs using <b>Google Gemini API</b> and posts typed markdown summary tables & line-by-line diff annotations.</p>
+      <p>Autonomous AI code reviewer that inspects pull request diffs using <b>Google Gemini API</b> and publishes structured summary tables & inline diff annotations.</p>
       <ul>
-        <li>Structured schema parsing using <code>google-genai</code> SDK</li>
+        <li>Structured typed output via <code>google-genai</code> SDK</li>
         <li>Automated CI/CD with <b>GitHub Actions</b> on PR creation/update</li>
-        <li>Configurable severity guardrails and deduplication engine</li>
+        <li>Customizable severity guardrails and deduplication engine</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3.11+-blue?style=flat-square" />
@@ -116,11 +139,11 @@
     </td>
     <td width="50%" valign="top">
       <h3>💰 SmartX — Personal Finance Tracker</h3>
-      <p>Production full-stack financial platform for expense tracking, budget management, categorical spending analytics, and growth visualizations.</p>
+      <p>Production full-stack financial platform for expense tracking, budget management, spending analytics, and growth visualizations.</p>
       <ul>
         <li>Secure <b>JWT Authentication</b> and password recovery</li>
-        <li>Interactive <b>Recharts</b> financial charts & analytics</li>
-        <li>CSV data export and custom budget CRUD operations</li>
+        <li>Interactive <b>Recharts</b> financial charts & data visualization</li>
+        <li>CSV export and categorized budget CRUD operations</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=flat-square" />
@@ -206,7 +229,13 @@
 
 ---
 
-## 📊 GitHub Activity & Analytics
+## 📈 Activity & Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemrishi1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/Hemrishi1">
@@ -247,5 +276,8 @@
 <br/><br/>
 
 ⭐ *Thank you for checking out my profile! Feel free to explore my repositories, open an issue, or reach out for opportunities.*
+
+<!-- DYNAMIC FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
