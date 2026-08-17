@@ -76,104 +76,55 @@
 
 ---
 
-## 🌟 Flagship Engineering Projects
+## 🌟 Flagship Projects & Engineering Highlights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Code Review Bot</h3>
-      <p>Autonomous AI code reviewer that inspects pull request diffs using <b>Google Gemini API</b> and publishes structured summary tables & inline diff annotations.</p>
-      <ul>
-        <li>Structured typed output via <code>google-genai</code> SDK</li>
-        <li>Automated CI/CD with <b>GitHub Actions</b> on PR creation/update</li>
-        <li>Customizable severity guardrails and deduplication engine</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3.11+-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Google%20Gemini-AI-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-green?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Hemrishi1/code_review"><b>🔗 GitHub Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 SmartX — Personal Finance Tracker</h3>
-      <p>Production full-stack financial platform for expense tracking, budget management, spending analytics, and growth visualizations.</p>
-      <ul>
-        <li>Secure <b>JWT Authentication</b> and password recovery</li>
-        <li>Interactive <b>Recharts</b> financial charts & data visualization</li>
-        <li>CSV export and categorized budget CRUD operations</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-Database-forestgreen?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://expense-tracker-client-9eoj.onrender.com/" target="_blank"><b>🌐 Live Demo ➔</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Hemrishi1/smart-expense-tracker"><b>🔗 Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏋️ Push-Up Counter AI Application</h3>
-      <p>Real-time computer vision application that tracks human body posture landmarks and automatically counts repetitions with posture feedback.</p>
-      <ul>
-        <li><b>MediaPipe Pose</b> 33-landmark skeleton tracking</li>
-        <li>Real-time joint angle trigonometry and form validation</li>
-        <li>Audio feedback and interactive Pygame visualization UI</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-OpenCV-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-Pose-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-AI-orange?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://pushup-counter-frontend.onrender.com/login" target="_blank"><b>🌐 Live Demo ➔</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Hemrishi1/push-up-counter"><b>🔗 Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🫁 Lung Cancer Detection CNN App</h3>
-      <p>Deep learning medical imaging classification system to assist in early detection of lung cancer lesions from CT scan imagery.</p>
-      <ul>
-        <li><b>82% Precision</b> on medical CT scan image classification</li>
-        <li>Custom <b>Convolutional Neural Network (CNN)</b> architecture</li>
-        <li>Automated image normalization and feature extraction pipeline</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Keras-CNN-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Accuracy-82%25-brightgreen?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Hemrishi1"><b>🔗 View Project Details ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌉 OsdagBridge — Bridge Analysis Module</h3>
-      <p>Unified structural bridge analysis and design module supporting desktop, web, and CLI through shared Python core, OpenSees solvers, and IRC design codes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-Engineering-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenSees-Finite%20Element-navy?style=flat-square" />
-      </p>
-      <p><a href="https://github.com/Hemrishi1/OsdagBridge"><b>🔗 GitHub Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Imagine AI — Image Generator</h3>
-      <p>Responsive AI image creation web application powered by the OpenAI DALL-E 2 API for natural-language prompt-to-image synthesis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OpenAI-DALL--E%202-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" />
-      </p>
-      <p><a href="https://github.com/Hemrishi1/Imagine_AI"><b>🔗 GitHub Repository ➔</b></a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- ROW 1 -->
+<a href="https://github.com/Hemrishi1/code_review">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=code_review&theme=tokyonight&show_owner=false" width="49%" alt="AI Code Review Bot" />
+</a>
+<a href="https://github.com/Hemrishi1/smart-expense-tracker">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=smart-expense-tracker&theme=tokyonight&show_owner=false" width="49%" alt="SmartX Expense Tracker" />
+</a>
+
+<br/>
+
+<!-- ROW 2 -->
+<a href="https://github.com/Hemrishi1/push-up-counter">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=push-up-counter&theme=tokyonight&show_owner=false" width="49%" alt="Push-Up Counter AI" />
+</a>
+<a href="https://github.com/Hemrishi1/OsdagBridge">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=OsdagBridge&theme=tokyonight&show_owner=false" width="49%" alt="OsdagBridge" />
+</a>
+
+<br/>
+
+<!-- ROW 3 -->
+<a href="https://github.com/Hemrishi1/Imagine_AI">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=Imagine_AI&theme=tokyonight&show_owner=false" width="49%" alt="Imagine AI" />
+</a>
+<a href="https://github.com/Hemrishi1">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Hemrishi1&repo=Hemrishi1&theme=tokyonight&show_owner=false" width="49%" alt="GitHub Profile" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://expense-tracker-client-9eoj.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_SmartX_Live_Demo-00C49F?style=for-the-badge&logo=render&logoColor=white" alt="SmartX Demo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pushup-counter-frontend.onrender.com/login" target="_blank">
+    <img src="https://img.shields.io/badge/🏋️_Push--Up_Counter_Live-FF6B6B?style=for-the-badge&logo=render&logoColor=white" alt="Pushup Demo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hemrishibhansali1.vercel.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/✨_View_All_Projects-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="All Projects" />
+  </a>
+</div>
 
 ---
 
