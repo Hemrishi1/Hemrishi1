@@ -158,7 +158,7 @@
 
 <!-- LIVE LEETCODE REALTIME STATS CARD -->
 <div align="center">
-  <a href="https://leetcode.com/u/hemrishibhansali1/" target="_blank">
+  <a href="https://leetcode.com/u/hemrishibhansali1/](https://leetcode.com/u/Zoro_108" target="_blank">
     <img src="https://leetcard.jacoblin.cool/hemrishibhansali1?theme=tokyonight&font=Fira%20Code" width="98%" alt="Hemrishi's LeetCode Stats" />
   </a>
 </div>
