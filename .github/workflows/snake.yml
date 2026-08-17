@@ -2,7 +2,6 @@ name: Generate Pacman Contribution Snake
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -15,13 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Snake SVGs
+      - name: Generate Yellow Pacman SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: Hemrishi1
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#FFE600&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFE600&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
