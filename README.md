@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- DYNAMIC WAVE HEADER -->
+<!-- DYNAMIC WAVE HERO HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hemrishi%20Bhansali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Developer%20•%20Open%20Source%20Contributor&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <!-- ANIMATED TYPING SVG -->
@@ -46,7 +46,12 @@
 
 </div>
 
-## 🚀 About Me
+<!-- SECTION 1: ABOUT ME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=About%20Me&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="About Me Heading" />
+</div>
+
+<br/>
 
 - 🎓 **Education:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (Class of 2023–2027).
 - 💡 **Engineering Focus:** Architecting responsive full-stack applications & engineering autonomous AI systems (LLM tool-use orchestration, Computer Vision, CNNs).
@@ -54,11 +59,16 @@
 - 🏛️ **Leadership & Impact:** **Joint Secretary at Frontiers Welfare Society** — streamlined event planning across 2 states, improving turnaround times by ~30%.
 - 🌐 **Open-Source Contributions:** Active participant in **GirlScript Summer of Code (GSSoC'24)** & **Hacktoberfest**, resolving 15+ issues in public repositories.
 
----
+<br/>
 
-## 🛠️ Modern Tech Stack & Tools
+<!-- SECTION 2: TECH STACK -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Tech%20Stack%20and%20Tools&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Tech Stack Heading" />
+</div>
 
 <div align="center">
+
+<br/>
 
 ### 💻 Languages & Frameworks
 <p align="center">
@@ -76,9 +86,14 @@
 
 </div>
 
----
+<br/>
 
-## 🌟 Flagship Projects & Engineering Highlights
+<!-- SECTION 3: FEATURED PROJECTS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Featured%20Projects&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Featured Projects Heading" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -128,21 +143,49 @@
   </a>
 </div>
 
----
+<br/>
 
-## 📜 Verified Certifications
+<!-- SECTION 4: VERIFIED CERTIFICATIONS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Verified%20Certifications&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Verified Certifications Heading" />
+</div>
 
-| Issuer | Certification | Core Focus |
-|---|---|---|
-| **Google** | *Bits and Bytes of Computer Networking* | TCP/IP, Routing, Network Protocols & Architecture |
-| **NPTEL** | *Introduction to Machine Learning* | Supervised/Unsupervised Learning, Mathematical Models |
-| **VITyarthi** | *Fundamentals of AI & Machine Learning* | Neural Networks, Feature Extraction, Classification |
-| **VITyarthi** | *Introduction to Python Programming* | OOP, Algorithms, Data Structures & Modules |
-| **JPMorgan Chase** | *Advanced Software Engineering (Forage)* | Financial Data Architecture & Engineering |
+<br/>
 
----
+<div align="center">
+  <p align="center">
+    <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Google-Bits%20and%20Bytes%20of%20Computer%20Networking-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Networking" />
+    </a>
+    &nbsp;
+    <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-FF9900?style=for-the-badge&logo=apachespark&logoColor=white" alt="NPTEL ML" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/VITyarthi-Fundamentals%20of%20AI%20%26%20Machine%20Learning-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="VIT AI" />
+    </a>
+    &nbsp;
+    <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/VITyarthi-Introduction%20to%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="VIT Python" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://hemrishibhansali1.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/JPMorgan%20Chase-Advanced%20Software%20Engineering%20(Forage)-005696?style=for-the-badge&logo=chase&logoColor=white" alt="JPMorgan Chase" />
+    </a>
+  </p>
+</div>
 
-## 📊 Profile Analytics & LeetCode Tracker
+<br/>
+
+<!-- SECTION 5: PROFILE ANALYTICS & DSA TRACKER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Analytics%20and%20DSA%20Tracker&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Analytics Heading" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemrishi1&theme=tokyonight" width="49%" alt="Profile Summary" />
@@ -173,9 +216,14 @@
   </a>
 </div>
 
----
+<br/>
 
-## 🎮 Pac-Man Contribution Graph Game
+<!-- SECTION 6: PAC-MAN GAME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Pacman%20Contribution%20Arcade&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Pac-Man Arcade Heading" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -185,9 +233,14 @@
   </picture>
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect & Collaborate!
+<!-- SECTION 7: CONNECT & COLLABORATE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Connect%20and%20Collaborate&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Connect Heading" />
+</div>
+
+<br/>
 
 <div align="center">
 
