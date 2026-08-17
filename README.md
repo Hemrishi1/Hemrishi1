@@ -158,10 +158,10 @@
 
 <br/>
 
-<!-- REALTIME LEETCODE STATS CARD FOR ZORO_108 -->
+<!-- REALTIME LEETCODE STATS CARD FOR ZORO_108 (DARK MODE) -->
 <div align="center">
   <a href="https://leetcode.com/u/Zoro_108/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Zoro_108?theme=tokyonight&font=Fira%20Code" width="98%" alt="Zoro_108 LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Zoro_108?theme=dark&font=Fira%20Code" width="98%" alt="Zoro_108 LeetCode Stats" />
   </a>
 </div>
 
