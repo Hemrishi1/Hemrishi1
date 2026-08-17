@@ -40,6 +40,20 @@
 
 </div>
 
+## 🎮 Pac-Man & Snake Contribution Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
+    <img alt="Pacman / Snake Contribution Animation" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <br/>
+  <sub><i>🕹️ Pac-Man eats through your real GitHub contribution commits daily!</i></sub>
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 **Academic Standing:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (**8.53 CGPA**).
