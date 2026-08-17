@@ -30,9 +30,11 @@
 <!-- SLEEK SINGLE-ROW DYNAMIC METRIC PILLS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hemrishi1&color=6366F1&style=flat&label=Profile%20Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/LeetCode-186%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Zoro_108/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Zoro__108-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
   <img src="https://img.shields.io/badge/Hackathon-SIH%20'24%20Finalist-10B981?style=flat&logo=target&logoColor=white" alt="SIH" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20'24%20%26%20Hacktoberfest-8B5CF6?style=flat&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20%26%20Hacktoberfest-8B5CF6?style=flat&logo=github&logoColor=white" alt="Open Source" />
   <img src="https://img.shields.io/badge/Public%20Repos-24%2B-3B82F6?style=flat&logo=git&logoColor=white" alt="Repos" />
 </p>
 
@@ -48,7 +50,7 @@
 
 - 🎓 **Education:** Computer Science & Engineering undergraduate at **VIT Bhopal University** (Class of 2023–2027).
 - 💡 **Engineering Focus:** Architecting responsive full-stack applications & engineering autonomous AI systems (LLM tool-use orchestration, Computer Vision, CNNs).
-- 🏆 **Competitive Problem Solving:** Solved **186+ algorithmic challenges** on LeetCode across dynamic programming, trees, arrays, and graph theory.
+- 🏆 **Competitive Problem Solving:** Solved **186+ algorithmic challenges** on LeetCode across dynamic programming, trees, arrays, and graph theory ([@Zoro_108](https://leetcode.com/u/Zoro_108/)).
 - 🏛️ **Leadership & Impact:** **Joint Secretary at Frontiers Welfare Society** — streamlined event planning across 2 states, improving turnaround times by ~30%.
 - 🌐 **Open-Source Contributions:** Active participant in **GirlScript Summer of Code (GSSoC'24)** & **Hacktoberfest**, resolving 15+ issues in public repositories.
 
@@ -156,10 +158,10 @@
 
 <br/>
 
-<!-- LIVE LEETCODE REALTIME STATS CARD -->
+<!-- REALTIME LEETCODE STATS CARD FOR ZORO_108 -->
 <div align="center">
-  <a href="https://leetcode.com/u/Zoro_108" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/hemrishibhansali1?theme=tokyonight&font=Fira%20Code" width="98%" alt="Hemrishi's LeetCode Stats" />
+  <a href="https://leetcode.com/u/Zoro_108/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Zoro_108?theme=tokyonight&font=Fira%20Code" width="98%" alt="Zoro_108 LeetCode Stats" />
   </a>
 </div>
 
