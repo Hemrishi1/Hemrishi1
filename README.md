@@ -229,24 +229,24 @@
 
 ---
 
-## 🕹️ Activity & Pac-Man Contribution Game
+## 🕹️ Retro Pac-Man Contribution Arcade
 
-<!-- RETRO PAC-MAN EATER ANIMATION -->
+<!-- REAL PAC-MAN EATER ANIMATION -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" alt="Pac-Man Eating Dots" />
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="480" alt="Pac-Man eating pellets" />
 </div>
 
 <br/>
 
-<!-- PAC-MAN THEMED CONTRIBUTION GRID -->
+<!-- PAC-MAN GRID -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" />
-    <img alt="Pacman Contribution Grid" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="98%" />
+    <img alt="Pacman Grid" src="https://raw.githubusercontent.com/Hemrishi1/Hemrishi1/output/github-contribution-grid-snake.svg" width="98%" />
   </picture>
   <br/>
-  <sub><i>🟡 Yellow Pac-Man eats through your real commit dots on the contribution grid</i></sub>
+  <sub><i>🟡 Pac-Man eating commit dots and power pellets across the matrix</i></sub>
 </div>
 
 ---
