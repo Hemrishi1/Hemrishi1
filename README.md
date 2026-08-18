@@ -212,9 +212,10 @@
 
 <div align="center">
   <a href="https://github.com/Hemrishi1">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight" width="98%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="98%" alt="GitHub Stats" />
   </a>
 </div>
+
 
 
 
