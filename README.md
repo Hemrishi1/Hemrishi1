@@ -212,7 +212,7 @@
 
 <div align="center">
   <a href="https://github.com/Hemrishi1">
-    <img src="https://streak-stats.demolab.com/?user=Hemrishi1&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Hemrishi1&theme=tokyonight" width="98%" alt="GitHub Streak" />
   </a>
 </div>
 
