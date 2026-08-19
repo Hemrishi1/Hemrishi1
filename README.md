@@ -197,10 +197,10 @@
 
 <br/>
 
-<!-- REALTIME GITHUB STATS CARD (CUSTOM VERCEL DEPLOYMENT - 449 COMMITS) -->
+<!-- GITHUB STREAK STATS -->
 <div align="center">
   <a href="https://github.com/Hemrishi1">
-    <img src="https://github-readme-stats-three-lilac-33.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight&count_private=true" width="98%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Hemrishi1&theme=tokyonight" width="98%" alt="GitHub Streak" />
   </a>
 </div>
 
