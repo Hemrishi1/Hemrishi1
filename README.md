@@ -208,13 +208,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Hemrishi1">
-    <img src="https://streak-stats.demolab.com?user=Hemrishi1&theme=tokyonight" width="98%" alt="GitHub Streak & Contributions" />
-  </a>
-</div>
 
 <br/>
 
