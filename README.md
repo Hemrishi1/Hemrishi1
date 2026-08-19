@@ -66,6 +66,13 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,12,24,31&height=44&text=Tech%20Stack%20and%20Tools&fontSize=18&fontColor=ffffff&fontAlignY=62" width="100%" alt="Tech Stack Heading" />
 </div>
 
+<br/>
+
+<!-- DYNAMIC ANIMATED TECH MARQUEE / STREAM -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=900&color=38BDAE&center=true&vCenter=true&width=620&lines=💻+Core+Languages%3A+Python+•+C%2B%2B+•+Java+•+TypeScript+•+JavaScript;⚡+Web+Engineering%3A+React.js+•+Node.js+•+Express+•+FastAPI+•+Tailwind;🤖+AI+%26+Computer+Vision%3A+TensorFlow+•+OpenCV+•+Gemini+API+•+CNNs;☁️+Cloud+%26+Database%3A+MongoDB+•+MySQL+•+AWS+•+Docker+•+GitHub+Actions" alt="Dynamic Tech Typing" />
+</p>
+
 <div align="center">
 
 <br/>
@@ -208,8 +215,14 @@
   </a>
 </div>
 
-
 <br/>
+
+<!-- REALTIME GITHUB STATS CARD -->
+<div align="center">
+  <a href="https://github.com/Hemrishi1">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="98%" alt="GitHub Stats" />
+  </a>
+</div>
 
 <!-- SECTION 6: PAC-MAN GAME -->
 <div align="center">
