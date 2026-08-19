@@ -212,10 +212,7 @@
 
 <div align="center">
   <a href="https://github.com/Hemrishi1">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Hemrishi1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Hemrishi1">
-    <img src="https://streak-stats.demolab.com/?user=Hemrishi1&theme=tokyonight" width="49%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Hemrishi1&theme=tokyonight" width="98%" alt="GitHub Streak & Contributions" />
   </a>
 </div>
 
